@@ -2,6 +2,9 @@
 
 A modern, responsive full-stack TODO list application built with React, Node.js, Next.js, Express, and MongoDB.
 
+## Live Demo
+
+You can view the live application [here](https://todo-fullstack-app-green.vercel.app/).
 ## Features
 
 - User authentication (signup, login, logout)
