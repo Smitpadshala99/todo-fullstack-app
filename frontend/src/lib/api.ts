@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL: process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5000/api'
+    baseURL: process.env.NEXT_PUBLIC_API_URL || 'https://todo-fullstack-app-20t7.onrender.com/api'
 });
 
 // Request interceptor to add auth token
