@@ -28,9 +28,9 @@ A modern, responsive full-stack TODO list application built with React, Node.js,
 - bcryptjs for password hashing
 
 ## Screenshots
-![Login Screen](Images\image1.PNG)
-![Register Screen](Images\image2.PNG)
-![TODO List](Images\image3.PNG)
+![Login Screen](Images/image1.PNG)
+![Register Screen](Images/image2.PNG)
+![TODO List](Images/image3.PNG)
 
 ## Setup Instructions
 
