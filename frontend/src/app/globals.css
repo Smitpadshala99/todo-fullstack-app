@@ -1,0 +1,11 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+body {
+    @apply text-gray-800;
+}
+
+.container {
+    @apply max-w-4xl;
+}
